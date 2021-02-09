@@ -9,5 +9,16 @@ body{
 }
 
 section{
+    
     text-align: center;
+    border: 2px orangered solid;
+    padding: 50px;
+}
+
+input{
+    width: 50px;
+}
+
+form{
+    width: 110px;
 }
